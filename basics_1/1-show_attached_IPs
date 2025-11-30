@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Displaying just the ips
+ifconfig | grep "inet " | awk '{print $2}'
