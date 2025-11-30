@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Establishing connection between 
+nc -l 98
