@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# Displaying the network ports and sockets with pid
 netstat -p
